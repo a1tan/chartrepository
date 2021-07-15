@@ -8,7 +8,7 @@ image:
   repository: a1tan/socialmediaapi
   pullPolicy: Always
   # Overrides the image tag whose default is the chart version.
-  tag: ""
+  tag: "95f51ed06aedc2c64e011db2e791868dfb8e13ba"
 
 imagePullSecrets: []
 nameOverride: ""
