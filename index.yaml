@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  socialmediaapi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-15T06:11:40.21987743Z"
+    description: A Helm chart for Kubernetes
+    digest: aef7bb1019b3c91a141eebf7aa53997d7a23ff2e1446c9d0bacffb73161b58d0
+    name: socialmediaapi
+    type: application
+    urls:
+    - https://github.com/a1tan/chartrepository/releases/download/socialmediaapi-0.2.0/socialmediaapi-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-07-15T06:11:40.21989003Z"
